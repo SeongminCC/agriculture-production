@@ -1,6 +1,6 @@
 # nongnet_AI
 
-## Modeling
+## modeling.ipynb
 ### target
 * 단가(원)
 * predict 1year(365days)
@@ -9,7 +9,7 @@
 2. Random forest : 0.00029
 3. fbProphet : 0.0024
 
-## modeling_2weeks
+## modeling_2weeks.ipynb
 ### target
 * 해당일자_전체평균가격(원)
 * predict 2weeks(14days)
